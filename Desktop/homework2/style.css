@@ -1,0 +1,124 @@
+.page {
+    width: 1280px;
+    height: 1626px;
+}
+.nevbar {
+
+width: 620px;
+height: 15px;
+padding: 31.5px 330px 31.5px 330px;
+/* left: 330px;
+top: 31.5px;
+bottom: 31.5px; */
+
+}
+.menu {
+    list-style-type: none;
+}
+.color-menu-home {
+    color: red;
+    padding: 30px;
+}
+.color-menu-photapp {
+    color: red;
+    padding: 30px;
+}
+.color-menu-design {
+    color: red;  
+    padding: 30px;
+}
+.color-menu-download {
+    color: red; 
+    padding: 30px;
+}
+.main-photo {
+    width: 1280px;
+    height: 789px:
+    left: 0px;
+}
+.photo {
+    padding-top: 78px;
+    padding-bottom: 1px;
+}
+.main-content {
+
+  
+width: 1280px;
+height: 650;
+}
+.h2 {
+margin: auto;
+width: 774px;
+height: 29px;
+margin: 48px 253px 38px 253px;
+letter-spacing: 3.3px;
+font-family: 'Montserrat';
+font-weight: 700;
+font-size: 22px;
+color: #373737;
+}
+.content-up {
+    width: 1145px;
+    height: 132px;
+    padding-right: 67.5px;
+    margin: auto;
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Montserrat';
+    line-height: 26px;
+    letter-spacing: 2.4px;
+    color: #373737;
+}
+.content-down {
+    width: 1145px;
+    height: 216p;  
+    padding-right: 67.5px;
+    margin: auto;
+    font-family: 'Montserrat';
+    line-height: 26px;
+    letter-spacing: 2.4px;
+    text-align: center;
+    color: #373737;
+}
+
+.butt {
+    margin: auto;
+    padding: 18px 43px 17px 43px;
+    margin: 84px 588px 59px 587px;
+    /* width: 191px;
+    height: 51px; */
+    /* left: 544.5px;
+    top: 557px; */
+    width: 105px;
+    height: 16px;
+    font-family: 'Montserrat';
+    /* font-style: normal; */
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: center;
+    letter-spacing: 1.8px;
+    background: #FF0000;
+    border-radius: 4px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    
+}
+.Footer {
+    margin: 40px 105px 29px 713px;
+    width: 462px;
+    height: 39px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: auto;
+    text-align: right;
+    line-height: 20px;
+    font-size: 16px;
+    align-items: center;
+letter-spacing: 2.4px;
+
+color: #373737;
+}
+
